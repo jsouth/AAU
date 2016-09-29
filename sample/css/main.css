@@ -1,0 +1,43 @@
+/*
+ *
+ * Author: jsouth
+ * testing git:
+ *
+ */
+
+html {
+    background: #000;
+    color: #fff;
+    font-size: 1em;
+    line-height: 1.5;
+}
+body {
+    padding: 150px;
+    text-align: center;
+}
+/*
+ *
+ * welcome info
+ *
+ *
+ */
+.welcome {
+    -webkit-animation: opac 3.5s;
+    animation: opac 3.5s
+}
+@-webkit-keyframes opac {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+@keyframes opac {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
