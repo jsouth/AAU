@@ -22,8 +22,8 @@ body {
  *
  */
 .welcome {
-    -webkit-animation: opac 1.5s;
-    animation: opac 1.5s
+    -webkit-animation: opac 3.5s;
+    animation: opac 3.5s
 }
 @-webkit-keyframes opac {
     from {
