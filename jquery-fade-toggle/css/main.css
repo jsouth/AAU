@@ -1,0 +1,73 @@
+/*
+ *
+ * Academy of Art Exercise
+ *
+ */
+
+html {
+    background: #fff;
+    color: #000;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+body {
+    padding: 150px;
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+}
+
+/*
+ *
+ * Layout Elements
+ *
+ */
+
+button {
+    background: #ec1b2e;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 0;
+    border-radius: 4px;
+    color: #fff;
+    outline: none;
+}
+
+.container {
+    display: flex;
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.content {
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+}
+
+/*
+ *
+ * Sample Content
+ *
+ */
+
+ #div1 {
+    margin: 10px;
+ }
+
+  #div2 {
+    margin: 10px;
+ }
+
+  #div3 {
+    margin: 10px;
+ }

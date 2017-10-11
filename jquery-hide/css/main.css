@@ -1,0 +1,42 @@
+/*
+ *
+ * jquery exercise
+ *
+ */
+
+html {
+    background: #fff;
+    color: #000;
+    font-size: 1em;
+    line-height: 1.5;
+}
+
+body {
+    padding: 150px;
+    text-align: center;
+}
+
+button {
+    background: #88d0ff;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid #999;
+    border-radius: 4px;
+    outline: none;
+}
+
+.welcome, .content {
+    display: none;
+}
+
+.content {
+    height: 200px;
+    width: 500px;
+    margin: 0 auto;
+}
