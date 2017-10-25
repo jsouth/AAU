@@ -1,5 +1,0 @@
-# starter
-
-## Install
-
-## Usage
