@@ -1,0 +1,49 @@
+/*
+ *
+ * Author: Your name here
+ *
+ */
+
+html {
+    background: #ccc;
+    color: #fff;
+    font-size: 1em;
+    line-height: 1.5;
+}
+body {
+    padding: 150px;
+    text-align: center;
+}
+/*
+ *
+ * welcome info ( feel free to delete or modify this)
+ *
+ *
+ */
+.welcome {
+    -webkit-animation: opac 3.5s;
+    animation: opac 3.5s
+}
+@-webkit-keyframes opac {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+@keyframes opac {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+
+/*
+ *
+ * Bootstrap Overrides (keep all boostrap specific overrides in this section below)
+ *
+ *
+ */
